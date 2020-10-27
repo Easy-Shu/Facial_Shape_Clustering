@@ -1,5 +1,5 @@
 # 3D-guided facial shape clustering and analysis
-
+The dataset and code will be released after the manuscript is accepted!
 
 
 ## Acknowledgement
