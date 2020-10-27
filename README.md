@@ -1,5 +1,5 @@
-# facial shape clustering
-3D-guided facial shape clustering and analysis
+# 3D-guided facial shape clustering and analysis
+
 
 
 ## Acknowledgement
