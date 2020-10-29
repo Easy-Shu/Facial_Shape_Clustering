@@ -7,6 +7,10 @@ The dataset and code will be released after the manuscript is accepted!
 <img src="https://github.com/Easy-Shu/facial_shape_clustering/blob/main/Figures/Figure_6_PCA_Female.png" width=80% alt="Female"></img>
 <img src="https://github.com/Easy-Shu/facial_shape_clustering/blob/main/Figures/Figure_6_PCA_Male.png" width=80% alt="Male"></img>
 
+## Shape Clustering Results
+The Circular Dendrogram of the hierarchical clustering result based on geometric features shows the optimal cluster number is 6 for 3D female and male faces and the experimental results demonstrate the K-means clustering on geometric features can achieve the better performance. Note: the K-means clustering results are slightly different in each time.
+
+
 ## Cluster Beauty Analysis
 
 Aattractiveness distributions do not accord with normal distribution in the violin plot of the below Figure. So, the Wilcoxon signed-rank tests are used to compared the difference between two neighbor clusters. The investigation of the attractiveness distribution of different facial shape clusters reveals that the facial shapes with more pointed chin have higher attractiveness, regardless of male and female.  
