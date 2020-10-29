@@ -8,7 +8,7 @@ The dataset and code will be released after the manuscript is accepted!
 <img src="https://github.com/Easy-Shu/facial_shape_clustering/blob/main/Figures/Figure_6_PCA_Male.png" width=80% alt="Male"></img>
 
 ## Shape Clustering Results
-The Circular Dendrogram of the hierarchical clustering result based on geometric features shows the optimal cluster number is 6 for 3D female and male faces and the experimental results demonstrate the K-means clustering on geometric features can achieve the better performance. ##Note: the K-means clustering results are slightly different in each time.
+The Circular Dendrogram of the hierarchical clustering result based on geometric features shows the optimal cluster number is 6 for 3D female and male faces and the experimental results demonstrate the K-means clustering on geometric features can achieve the better performance.  **Note: the K-means clustering results are slightly different in each time.**
 
 
 ## Cluster Beauty Analysis
