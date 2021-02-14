@@ -13,6 +13,7 @@ The Circular Dendrogram of the hierarchical clustering result based on geometric
 <img src="https://github.com/Easy-Shu/facial_shape_clustering/blob/main/Figures/Figure13 Female_Clsutering_Results.png" width=100% alt="beasuty"></img>
 Figure 13. Average 3D female facial shape of different clusters by K-means clustering method. The first and second row:  Average facial shape with texture and without texture. The third row: motion mesh from source Tf to target Ti (Ti-Tf), where i =1,2,..,6. The forth row: colour contours of cluster with the black average contour in the all grey facial contours.
 
+
 <img src="https://github.com/Easy-Shu/facial_shape_clustering/blob/main/Figures/Figure14 Male_Clsutering_Results.png" width=100% alt="beasuty"></img>
 Figure 14. Average 3D male facial shape of different clusters by K-means clustering method. The first and second row:  Average facial shape with texture and without texture. The third row: motion mesh from source Ta to target Ti (Ti-Ta), where i =1,2,..,6. The forth row: colour contours of cluster with the black average contour in the all grey facial contours.
 
