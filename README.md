@@ -30,7 +30,7 @@ Aattractiveness distributions do not accord with normal distribution in the viol
 * Circular Dendrogram realization: [circlize: circular visualization in R](https://github.com/jokergoo/circlize). 
 
 ## Citation
-If you use this code for your research, please cite our paper.
+If you find our work useful to your research, please consider citing:
 ```
 @article{Jie2022clustering,
   title={3{D}-guided facial shape clustering and analysis},
