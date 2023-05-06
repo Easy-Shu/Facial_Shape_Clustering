@@ -34,11 +34,14 @@ Aattractiveness distributions do not accord with normal distribution in the viol
 If you find our work useful to your research, please consider citing:
 ```
 @article{Jie2022clustering,
-  title={3{D}-guided facial shape clustering and analysis},
-  author={Jie Zhang and Kangneng Zhou and Yan Luximon and Ping Li and Hassan Iftikhar},
+  title={{3D}-guided facial shape clustering and analysis},
+  author={Zhang, Jie and Zhou, Kangneng and Luximon, Yan and Li, Ping and Iftikhar, Hassan},
   journal={Multimedia Tools and Applications},
+  volume={81},
+  number={6},
+  pages={8785--8806},
   year={2022},
-  doi={https://doi.org/10.1007/s11042-022-12190-x}
+  publisher={Springer}
 }
 ```
 ## Contacts
