@@ -5,11 +5,6 @@ Facial shape classification is of crucial importance in facial characteristics a
 ## 2D Image Databases
 In our facial shape analysis, 1997 Asian male and 1993 Asian female face images are selected from [SCUT-FBP5500](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release) and 500 Asian female images are selected from  [SCUT-FBP](http://www.hcii-lab.net/data/SCUT-FBP/), because there are several 2D image whose face cannot be detected successfully for their lighting problems.  Hence, 1997 Asian male and 2443 Asian female face images are used for further 3D face reconstruction.
 
-<! ## Principle Component Analysis
-<img src="https://github.com/Easy-Shu/facial_shape_clustering/blob/main/Figures/Figure_6_PCA_Female.png" width=80% alt="Female"></img>
-<img src="https://github.com/Easy-Shu/facial_shape_clustering/blob/main/Figures/Figure_6_PCA_Male.png" width=80% alt="Male"></img>
->
-
 ## Shape Clustering Results
 The Circular Dendrogram of the hierarchical clustering result based on geometric features shows the optimal cluster number is 6 for 3D female and male faces and the experimental results demonstrate the K-means clustering on geometric features can achieve the better performance. The average facial shapes of clusters can be downloaded from [shape](https://github.com/Easy-Shu/facial_shape_clustering/tree/main/Shapes) file. **Note: the cluster order of the K-means clustering results are different in each time.**
 
