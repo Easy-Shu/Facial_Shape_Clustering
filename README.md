@@ -36,7 +36,8 @@ If you find our work useful to your research, please consider citing:
   number={6},
   pages={8785--8806},
   year={2022},
-  publisher={Springer}
+  publisher={Springer},
+  doi={10.1007/s11042-022-12190-x}
 }
 ```
 ## Contacts
